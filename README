@@ -1,0 +1,31 @@
+# 🔐 Advanced Linux Log Analyzer
+
+A Python-based Linux security log analyzer built on Ubuntu using VMware.
+
+This project analyzes `/var/log/auth.log` and detects:
+
+- Failed login attempts
+- Invalid user access attempts
+- Sudo authentication failures
+- Suspicious attack patterns
+- Brute force login attempts
+
+## 🛠 Technologies Used
+
+- Python
+- Linux (Ubuntu)
+- Git & GitHub
+- VMware
+
+## 📊 Features
+
+- Security log monitoring
+- Automated report generation
+- IP-based attack detection
+- Username tracking
+- Authentication analysis
+
+## 🚀 Run the Project
+
+```bash
+sudo python3 analyzer.py
