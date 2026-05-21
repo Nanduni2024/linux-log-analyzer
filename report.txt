@@ -1,0 +1,12 @@
+==================================================
+ ADVANCED LOG ANALYZER REPORT
+==================================================
+
+📊 SUMMARY STATISTICS
+   Failed Login Attempts: 0
+   Invalid Users Attempted: 0
+   Sudo Authentication Failures: 3
+   Successful Logins: 0
+
+==================================================
+Report generated: 2026-05-21 08:37:18
